@@ -1,0 +1,24 @@
+.navigation{
+    overflow: hidden;
+    background-image:linear-gradient(rgb(128, 63, 25), rgb(123, 135, 240));
+  }
+  
+  .navigation a {
+    float: left;
+    color: #5109fa;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .navigation a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  .navigation a.active {
+    background-color: #2a1294;
+    color: white;
+  }
+ 

@@ -1,0 +1,60 @@
+.nav
+{
+    background-image: linear-gradient(rgb(161, 192, 87),rgb(112, 153, 47));
+    text-decoration-color: black;
+}
+h1
+{
+    text-align: center;
+    background-image: linear-gradient(rgb(167, 122, 224),rgb(105, 98, 209));
+}
+.footer
+{
+    background-color: rgb(211, 161, 149);
+    color: black;
+    height:40%;
+}
+.carousel-inner img {
+    margin: auto;
+  }
+  .book{
+      margin-right: auto;
+      width:50%;
+  }
+  .col-md-3 
+  {
+      text-align: center;
+      margin: auto;
+  }
+  .required::after {
+    content: "*";
+    position:absolute;
+    right:0px;
+    top:10px;
+   }
+   p{
+    line-height: 30px; 
+    text-align: justify;
+   }
+   .mb-0
+   {
+       margin: auto;
+       width: 60%;
+   }
+   .body{
+    background-image: linear-gradient(rgb(177, 155, 236),rgb(107, 219, 125));
+   }
+   .tabcenter{
+       text-align: center;
+       margin: auto;
+   }
+   .register,.login{
+       text-align: center;
+       background-color: rgb(75, 148, 81);
+   }
+   .info{
+    background-image: linear-gradient(rgb(177, 155, 236),rgb(107, 219, 125));
+   }
+   .search{
+       text-align: center;
+   }
